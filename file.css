@@ -1,0 +1,70 @@
+
+.eren{
+    border: 1px solid black;
+    padding:5px;
+    margin: 10px;
+    background-color: rgb(143, 226, 232);
+    
+}
+.levi{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(127, 143, 223);
+}
+.erwin{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(172, 155, 233);
+
+}
+
+.naru{
+    border: 1px solid black;
+    padding:5px;
+    margin: 10px;
+    background-color: #87e986;
+}
+.kakashi{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+    background-color: #d4de52;
+}
+.minato{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+    background-color: #F5D7DB;
+
+}
+.zoro{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+    background-color: #eb986b;
+
+}
+.taki{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+    background-color: #eb6b89;
+
+}.mitsuha{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+    background-color: #8adfe1;
+
+}
+ul{
+    list-style: none;
+    margin-left: -40px;
+}
+.anime{
+    padding: auto;
+    border-bottom: 2px solid rgb(0, 0, 0);
+
+}

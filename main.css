@@ -1,0 +1,17 @@
+nav{
+    background-color: rgb(95, 240, 189);
+    padding: 30px;
+
+}
+nav a:hover{
+    margin: 50px;
+    color: rgb(30, 28, 28);
+}
+a{
+    margin: 20px;
+    text-decoration:none;
+}
+body{
+    margin: -10px;
+}
+
